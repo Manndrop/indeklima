@@ -1,0 +1,36 @@
+.Meteret {
+    fill:yellow;stroke:#000000;stroke-miterlimit:10;
+}
+
+.st1 {
+    color: blue;
+    background: red;
+    background-color: yellow;
+}
+
+.Pilen {
+    fill: black;
+}
+
+.VenstreTopPil {
+    fill: red;
+}
+
+.HoejreTopPil {
+    fill: blue;
+}
+
+.Tal {
+    fill: black;
+    font-size: 36;
+}
+
+  @keyframes Pilen {
+     100%{
+        /*transform: rotate(26deg); */
+
+}
+}
+#Pilen {
+    transform-origin: 50% 50%; 
+}  
